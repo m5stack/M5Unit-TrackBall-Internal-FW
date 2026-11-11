@@ -11,7 +11,8 @@ Unit TrackBall is a trackball input unit built around the MOT6010 optical sensor
 ## Related Link
 
 - [Unit TrackBall & Datasheet](https://docs.m5stack.com/en/products/sku/U243)
-- [I2C Control Protocol](protocol/UNIT_TRACKBALL_I2C_CONTROL_PROTOCOL.md)
+- [I2C Control Protocol (Chinese)](protocol/UNIT_TRACKBALL_I2C_CONTROL_PROTOCOL.md)
+- [I2C Control Protocol (English)](protocol/UNIT_TRACKBALL_I2C_CONTROL_PROTOCOL_EN.md)
 
 ## Repository Structure
 
